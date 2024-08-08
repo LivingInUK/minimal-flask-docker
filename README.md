@@ -1,4 +1,4 @@
-# Flask-Docker minimal template
+# Minimal Flask Docker template
 This is minimal template for a Flask app using Docker.
 It will download latest python image and Flask, and then start publicly available Flask app on a default port.
 ## How to use
